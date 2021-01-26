@@ -79,13 +79,16 @@ Good navigation tends to follow these principles : Concise – Clear – Selecti
 
 
 ## There are three main elements that make up an HTML page :
+
 **body**
 You met the <body> element
 in the first example we created.
 Everything inside this element is
 shown inside the main browser
 window.
+
 **head**
+
 Before the <body> element you
 will often see a <head> element.
 This contains information
@@ -97,7 +100,9 @@ blue on the opposite page).
 You will usually find a <title>
 element inside the <head>
 element.
+
 **title**
+
 The contents of the <title>
 element are either shown in the
 top of the browser, above where
