@@ -81,6 +81,7 @@ Good navigation tends to follow these principles : Concise – Clear – Selecti
 ## There are three main elements that make up an HTML page :
 
 **body**
+
 You met the <body> element
 in the first example we created.
 Everything inside this element is
